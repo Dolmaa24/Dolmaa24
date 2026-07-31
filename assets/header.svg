@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Dolmaa Sharma — systems, AI infrastructure, security">
+  <defs>
+    <pattern id="ticks" width="16" height="14" patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="14" x2="0.5" y2="8" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.86" cy="0.12" r="0.55">
+      <stop offset="0" stop-color="#e3b341" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#e3b341" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e3b341" stop-opacity="1"/>
+      <stop offset="1" stop-color="#e3b341" stop-opacity="0.15"/>
+    </linearGradient>
+    <style>
+      .display { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .mono    { font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="279" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="10" fill="url(#glow)"/>
+
+  <!-- eyebrow -->
+  <rect x="56" y="52" width="7" height="7" transform="rotate(45 59.5 55.5)" fill="#e3b341"/>
+  <text class="mono" x="78" y="60" font-size="12" letter-spacing="2.6" fill="#6e7681">GITHUB.COM / DOLMAA24</text>
+
+  <!-- name -->
+  <text class="display" x="54" y="140" font-size="56" font-weight="600" letter-spacing="4" fill="#e6edf3">DOLMAA SHARMA</text>
+
+  <!-- accent rule -->
+  <rect x="56" y="164" width="190" height="2" fill="url(#rule)"/>
+
+  <!-- role -->
+  <text class="mono" x="56" y="200" font-size="16" letter-spacing="1.6" fill="#8b949e">systems  ·  AI infrastructure  ·  security</text>
+
+  <!-- instrument readout -->
+  <text class="mono" x="944" y="86"  font-size="11" letter-spacing="1.4" text-anchor="end" fill="#484f58">BASE <tspan fill="#8b949e">  VIT BHOPAL</tspan></text>
+  <text class="mono" x="944" y="108" font-size="11" letter-spacing="1.4" text-anchor="end" fill="#484f58">LANG <tspan fill="#8b949e">  PY · TS · RS</tspan></text>
+  <text class="mono" x="944" y="130" font-size="11" letter-spacing="1.4" text-anchor="end" fill="#484f58">BIAS <tspan fill="#e3b341">  ASSUME HOSTILE INPUT</tspan></text>
+
+  <!-- measurement ticks -->
+  <rect x="56" y="232" width="888" height="14" fill="url(#ticks)"/>
+  <line x1="56.5"  y1="246" x2="56.5"  y2="232" stroke="#e3b341" stroke-width="1"/>
+  <line x1="264.5" y1="246" x2="264.5" y2="234" stroke="#30363d" stroke-width="1"/>
+  <line x1="472.5" y1="246" x2="472.5" y2="234" stroke="#30363d" stroke-width="1"/>
+  <line x1="680.5" y1="246" x2="680.5" y2="234" stroke="#30363d" stroke-width="1"/>
+  <line x1="888.5" y1="246" x2="888.5" y2="232" stroke="#e3b341" stroke-width="1"/>
+</svg>

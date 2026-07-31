@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 306" width="1000" height="306" role="img" aria-label="Language distribution across owned repositories">
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="999" height="305" rx="10" fill="#0d1117" stroke="#21262d"/>
+
+  <rect x="56" y="44" width="7" height="7" transform="rotate(45 59.5 47.5)" fill="#e3b341"/>
+  <text class="mono" x="78" y="52" font-size="12" letter-spacing="2.6" fill="#6e7681">LANGUAGE DISTRIBUTION</text>
+  <text class="mono" x="944" y="52" font-size="11" letter-spacing="1.2" text-anchor="end" fill="#484f58">7 LANGUAGES · FORKS EXCLUDED</text>
+
+  <line x1="56" y1="68" x2="944" y2="68" stroke="#21262d"/>
+
+  <text class="mono" x="56" y="100" font-size="13" letter-spacing="1.8" fill="#8b949e">PYTHON</text>
+  <rect x="210" y="87" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="87" width="224.1" height="10" rx="5" fill="#e3b341"/>
+  <text class="mono" x="796" y="100" font-size="13" text-anchor="end" fill="#e6edf3">43.1%</text>
+  <text class="mono" x="944" y="100" font-size="11" text-anchor="end" fill="#484f58">577 KB</text>
+  <text class="mono" x="56" y="134" font-size="13" letter-spacing="1.8" fill="#8b949e">RUST</text>
+  <rect x="210" y="121" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="121" width="136.2" height="10" rx="5" fill="#c79b34"/>
+  <text class="mono" x="796" y="134" font-size="13" text-anchor="end" fill="#e6edf3">26.2%</text>
+  <text class="mono" x="944" y="134" font-size="11" text-anchor="end" fill="#484f58">351 KB</text>
+  <text class="mono" x="56" y="168" font-size="13" letter-spacing="1.8" fill="#8b949e">JAVASCRIPT</text>
+  <rect x="210" y="155" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="155" width="64.0" height="10" rx="5" fill="#a9822a"/>
+  <text class="mono" x="796" y="168" font-size="13" text-anchor="end" fill="#e6edf3">12.3%</text>
+  <text class="mono" x="944" y="168" font-size="11" text-anchor="end" fill="#484f58">165 KB</text>
+  <text class="mono" x="56" y="202" font-size="13" letter-spacing="1.8" fill="#8b949e">TYPESCRIPT</text>
+  <rect x="210" y="189" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="189" width="62.1" height="10" rx="5" fill="#8a6a22"/>
+  <text class="mono" x="796" y="202" font-size="13" text-anchor="end" fill="#e6edf3">11.9%</text>
+  <text class="mono" x="944" y="202" font-size="11" text-anchor="end" fill="#484f58">160 KB</text>
+  <text class="mono" x="56" y="236" font-size="13" letter-spacing="1.8" fill="#8b949e">CSS</text>
+  <rect x="210" y="223" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="223" width="24.1" height="10" rx="5" fill="#6b521a"/>
+  <text class="mono" x="796" y="236" font-size="13" text-anchor="end" fill="#e6edf3">4.6%</text>
+  <text class="mono" x="944" y="236" font-size="11" text-anchor="end" fill="#484f58">62 KB</text>
+  <text class="mono" x="56" y="270" font-size="13" letter-spacing="1.8" fill="#8b949e">HTML</text>
+  <rect x="210" y="257" width="520" height="10" rx="5" fill="#161b22"/>
+  <rect x="210" y="257" width="8.0" height="10" rx="5" fill="#4d3b13"/>
+  <text class="mono" x="796" y="270" font-size="13" text-anchor="end" fill="#e6edf3">1.5%</text>
+  <text class="mono" x="944" y="270" font-size="11" text-anchor="end" fill="#484f58">21 KB</text>
+</svg>
